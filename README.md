@@ -4,6 +4,10 @@
 # practiceRegex2
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/DannyPirouz/practiceRegex2/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/DannyPirouz/practiceRegex2/actions/workflows/R-CMD-check.yaml)
+[![Codecov test
+coverage](https://codecov.io/gh/DannyPirouz/practiceRegex2/graph/badge.svg)](https://app.codecov.io/gh/DannyPirouz/practiceRegex2)
 <!-- badges: end -->
 
 The goal of practiceRegex2 is to …

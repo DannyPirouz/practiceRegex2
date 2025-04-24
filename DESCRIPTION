@@ -13,6 +13,6 @@ Suggests:
     rmarkdown,
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
-URL: https://github.com/DannyPirouz/practiceRegex2
+URL: https://github.com/DannyPirouz/practiceRegex2, https://dannypirouz.github.io/practiceRegex2/
 BugReports: https://github.com/DannyPirouz/practiceRegex2/issues
 VignetteBuilder: knitr
